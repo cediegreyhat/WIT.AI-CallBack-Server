@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const request = require('request');
 
 const WIT_TOKEN = 'ZZNLYWFMP24Z3C4MAYW2DE5HXI25X2TL';
-const FB_PAGE_ACCESS_TOKEN = 'EAANPZBFp0XYQBAPrJVRK3LLPiIHZBDVXmsCDshujVcFibOW8Vd7FOPowDXWBDm2r5H4mtjgO1YZCcgPhzRnqpn5peSGMtXmGMBFWxbLfPZBqSbrvyJQcL3SSLZBaNEYekBeiqefUaZC1Xd3cAKWzZCxgeZBBVwRQzpNt9LaTNe7ldRWLQnFtYn2h';
+const FB_PAGE_ACCESS_TOKEN = 'EAAv8eQMZCDRUBAOUghZB9c2zx9DHa0Wao8h84rytkrxDnhCDbIUuZCbBJkjX7TCdi8rp5N8hvYqRAW40JdIBCKG0D6lnTPknGkFI0mIIA0ZCgpZC5kxWhEttJJGVpa7jcRzmDfQ0ZBlUNOLqKZAwKEkfbf9AWaW5ALhvmVAvXutQTalNMvcvmeJ';
 const FB_VERIFY_TOKEN = 'oks';
 
 const app = express();
