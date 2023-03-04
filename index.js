@@ -4,7 +4,7 @@ const request = require('request');
 
 const WIT_TOKEN = 'ZZNLYWFMP24Z3C4MAYW2DE5HXI25X2TL';
 const FB_PAGE_ACCESS_TOKEN = 'EAANPZBFp0XYQBAPrJVRK3LLPiIHZBDVXmsCDshujVcFibOW8Vd7FOPowDXWBDm2r5H4mtjgO1YZCcgPhzRnqpn5peSGMtXmGMBFWxbLfPZBqSbrvyJQcL3SSLZBaNEYekBeiqefUaZC1Xd3cAKWzZCxgeZBBVwRQzpNt9LaTNe7ldRWLQnFtYn2h';
-const FB_VERIFY_TOKEN = 'rikudesu';
+const FB_VERIFY_TOKEN = 'oks';
 
 const app = express();
 
